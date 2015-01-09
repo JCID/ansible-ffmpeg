@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: "Jeffrey Cafferata"
+  description: A role to compile FFmpeg
+  company: JCID
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+    - name: CentOs
+      versions:
+        - all
+  categories:
+    - system
+dependencies: []
