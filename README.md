@@ -12,3 +12,10 @@ Requirements
 ------------
 
 none
+
+Installation
+------------
+
+This role requires at least Ansible `v1.4.0`. To install it, run:
+
+    ansible-galaxy install jcid.FFmpeg-for-CentOS
